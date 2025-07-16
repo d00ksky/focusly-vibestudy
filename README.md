@@ -1,8 +1,4 @@
-# focusly-vibestudy
-🍅 Pomodoro timer with a twist - feed your virtual pet with study sessions and enjoy meme breaks!
-
-
-# Focusly-VibeStudy 🍅✨
+# VibeStudy 🍅✨
 
 A fun pomodoro timer app where productivity meets personality! Study hard, feed your virtual pet, and enjoy curated memes during breaks.
 
